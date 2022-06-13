@@ -1,2 +1,2 @@
 # spotify-clone-1
-Spotify-clone development using React technology following Sonny Sangha's Video
+Spotify-clone development using React technology and following Sonny Sangha's Video
