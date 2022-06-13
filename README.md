@@ -1,2 +1,2 @@
 # spotify-clone-1
-Spotiy-clone dev
+Spotify-clone development using React technology following Sonny Sangha's Video
